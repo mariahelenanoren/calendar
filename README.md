@@ -1,12 +1,10 @@
 # Calendar
 
-Skapat av Felicia Segerholm, Isabell Betar och Maria Helena Norén.
+Created by Felicia Segerholm, Isabell Betar and Maria Helena Norén.
 
-Vi har i HTML, CSS och Javascript skapat ett kalenderverktyg där användaren kan skapa, ändra och radera todos.
-Alla todos och ändringar sparas till Local Storage.
+A calendartool where the user can create, change and delete tasks.
+All the tasks and the changes made to the tasks are saved to local storage.
 
-Klickar man på ett datum i kalendern visas endast todo's för just den dagen i listan, vill man avmarkera vald dag klickar man på ett tomt datum i kalendern och då visas alla todos igen.
+By clicking on a date in the calendar the tasks are filtered and only the tasks for that particular date are shown. The date can be deseleced by clicking on an empty date in the calendar and all of the tasks will be shown.
 
-Avgränsningar: I ärendelistan fanns en punkt som var att "skapa och designa titeln för verktyget". Efter att vi tagit fram och skapat våran skiss bestämde vi oss för att vi ej ville ha en titel på våran kalender, och fick ok från David att ej ha med det. 
-
-Demo: https://feliciaseg.github.io/Calendar/
+[Live demo](mariahelenanoren.github.io/calendar)
